@@ -12,3 +12,4 @@ class MainActivity : AppCompatActivity() {
 
 ///ㅇㄹㄴㅇㄹㅁㄴㅇㄹㅁㄴㅇㄹㅁㄴㅇㄹㅁㄹ
 // develop 브랜치 생성
+// decelop에 텍스트 추가
